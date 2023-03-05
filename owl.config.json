@@ -1,0 +1,11 @@
+{
+  "ios": {
+    "workspace": "ios/rnOwlRegression.xcworkspace",
+    "scheme": "rnOwlRegression",
+    "configuration": "Release",
+    "device": "iPhone 13",
+    "quiet": true
+  },
+  "debug": true,
+  "report": true
+}
